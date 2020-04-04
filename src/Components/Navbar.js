@@ -4,12 +4,6 @@ import '../App.css'
 
  const Navbar = () => {
   return (
-//     <div className="navbar">
-//   <a href="#home"><i className="fa fa-fw fa-home"></i> Home</a>
-//   <a href="#about"><i className="fa fa-fw fa-address-card"></i> About</a>
-//   <a href="#program"><i className="fa fa-fw fa-book"></i> Program</a>
-//   {/* <a href="#"><i className="fa fa-fw fa-user"></i> Login</a> */}
-// </div>
 <nav className="navbar navbar-expand-lg navbar-light bg-custom ">
   <a className="navbar-brand" href="#home">TK RA Husnul Khotimah</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
